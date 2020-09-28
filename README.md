@@ -54,3 +54,5 @@ In summary, segementing customers can help in understand a particular target aud
 ### Acknoledgements
 * Stack Overflow
 * Friends from Port Harcourt School of AI.
+
+### Blog post: https://medium.com/@tamunotonye.harry/starbucks-customer-segmentation-19ac086e5405?sk=743253e2b34b348585dff5fc8edc7183
